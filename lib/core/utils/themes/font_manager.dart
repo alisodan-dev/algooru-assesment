@@ -13,7 +13,7 @@ class FontManagerStyle{
 
    TextStyle get titleTextStyle=> basicTextStyle.copyWith(
     color: Colors.white,
-    fontSize: 20.sp,
+    fontSize: 20,
     fontWeight: FontWeight.bold,
    );
   
