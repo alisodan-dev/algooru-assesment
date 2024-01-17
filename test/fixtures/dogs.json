@@ -1,0 +1,28 @@
+{
+    "breeds": [
+        {
+            "weight": {
+                "imperial": "13 - 14",
+                "metric": "15 - 15"
+            },
+            "height": {
+                "imperial": "13 - 14",
+                "metric": "15 - 15"
+            },
+            "id": 2,
+            "name": "test name",
+            "country_code": "US",
+            "bred_for": "Coursing and hunting",
+            "breed_group": "Hound",
+            "life_span": "1 - 22",
+            "description":"description",
+            "temperament": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+            "origin": "United States",
+            "reference_image_id": "hBXicehMA"
+        }
+    ],
+    "id": "TestId",
+    "height": 256,
+    "url": "SomeUrl",
+    "width": 256
+}
