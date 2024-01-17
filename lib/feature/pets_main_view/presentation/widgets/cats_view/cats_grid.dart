@@ -29,6 +29,7 @@ class CatsGrid extends ConsumerWidget {
                         itemCount: success.length,
                         gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
                           maxCrossAxisExtent: context.screenWidth / 2,
+                          mainAxisExtent:  context.screenWidth/3,
                           childAspectRatio: 1,
                         ),
                         itemBuilder: (context, index) {
